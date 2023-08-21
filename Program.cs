@@ -1,6 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
-using System.Runtime.InteropServices;
 
 class Program {
     public static void ShowAds()
@@ -33,6 +31,5 @@ class Program {
         {
             ShowAds();
         }
-        
     }
 }

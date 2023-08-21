@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" modified="2023-08-21T05:33:09.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="D5jNWwClx4LD80J4cCz5" version="21.6.8" type="device">
+  <diagram name="Страница — 1" id="NYOZCCeiv5RJZj2PlLF3">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BMpMqQFKSurPU0mbO4Cs-1" target="BMpMqQFKSurPU0mbO4Cs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BMpMqQFKSurPU0mbO4Cs-2" target="BMpMqQFKSurPU0mbO4Cs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-2" value="Запрос логина" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BMpMqQFKSurPU0mbO4Cs-5" target="BMpMqQFKSurPU0mbO4Cs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-14" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BMpMqQFKSurPU0mbO4Cs-12">
+          <mxGeometry x="0.024" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BMpMqQFKSurPU0mbO4Cs-5" target="BMpMqQFKSurPU0mbO4Cs-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-17" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BMpMqQFKSurPU0mbO4Cs-16">
+          <mxGeometry x="-0.0452" relative="1" as="geometry">
+            <mxPoint x="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-5" value="Является ли премиум пользователем" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="460" width="172" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BMpMqQFKSurPU0mbO4Cs-9" target="BMpMqQFKSurPU0mbO4Cs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-6" value="Считать логин" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BMpMqQFKSurPU0mbO4Cs-6" target="BMpMqQFKSurPU0mbO4Cs-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="300" as="sourcePoint" />
+            <mxPoint x="414" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-9" value="Вывести приветствие" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-11" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BMpMqQFKSurPU0mbO4Cs-15" target="BMpMqQFKSurPU0mbO4Cs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMpMqQFKSurPU0mbO4Cs-15" value="Вывести рекламу" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
